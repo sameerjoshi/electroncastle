@@ -1,0 +1,1 @@
+Repository for small C/C++, python, Octave etc projects from the field of computer vision, machine learning, embedded computing, various electronic devices, and other. Most of the code is (will be) referred from http://www.electroncastle.com
